@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\uft_git_repo\\git_repo_uft\\Res3',namePairs:[]}]};
